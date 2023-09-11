@@ -24,8 +24,8 @@ Curioso e incansável, sou um desenvolvedor júnior apaixonado por desvendar os 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<br />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<br />
 
 
 ### 📺 Últimos Posts
@@ -58,5 +58,5 @@ Vamos construir o futuro juntos! 🚀💻 #DesenvolvedorApaixonado #EmBuscaDoCó
 Atualmente estou querendo me aperfeiçoar em automações e manipulações de dados:
  - Python
 
-Ter conhecimento necessário para criar app MERN, então estou me dedicando para aprender EXPRESS.JS para somar com meus conhecimentos
+Ter conhecimento necessário para criar app MERN, então estou me dedicando para aprender EXPRESS.JS para somar com meus conhecimentos(obs: ainda estou criando algo em express, por isso não tem no repositório)
 - EXPRESS.JS
