@@ -1,6 +1,14 @@
 ### Paulo Nunan
 
 **`Programador Júnior`**
+<div> 
+
+  <a href="https://www.instagram.com/ph.nunan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/kd4krxcN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ph.nunan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 Curioso e incansável, sou um desenvolvedor júnior apaixonado por desvendar os segredos do código. Minha jornada é uma busca constante pela excelência, sempre aprendendo e evoluindo. Com uma mente criativa e inovadora, transformo desafios em oportunidades e crio soluções que surpreendem.
 
