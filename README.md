@@ -29,7 +29,7 @@ Curioso e incansável, sou um desenvolvedor júnior apaixonado por desvendar os 
 
 <details>
  <summary><h3>👨‍💻 Minha Jornada com Códigos </h3></summary>
- 👋 Olá! Tenho 23 anos e minha jornada na programação começou há apenas um ano e meio. Inicialmente, mergulhei no mundo do código com um objetivo simples: criar projetos que facilitassem minha própria vida.
+ 👋 Olá! Tenho 24 anos e minha jornada na programação começou há apenas 2 anos. Inicialmente, mergulhei no mundo do código com um objetivo simples: criar projetos que facilitassem minha própria vida.
 
   -
 No entanto, algo incrível aconteceu durante essa jornada. Tive a sorte de conhecer desenvolvedores incríveis no meu antigo trabalho, e esse encontro mudou completamente o rumo da minha vida.
