@@ -33,9 +33,7 @@ Curioso e incansável, sou um desenvolvedor júnior apaixonado por desvendar os 
 -
 -
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-nunan&show_icons=true&theme=rose_pine)
 
 <details>
  <summary><h3>👨‍💻 Minha Jornada com Códigos </h3></summary>
